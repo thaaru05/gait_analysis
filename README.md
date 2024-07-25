@@ -1,7 +1,4 @@
-# gait_analysis
-Here's a README for your GitHub repository:
 
----
 
 # Gait Analysis
 
