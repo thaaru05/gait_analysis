@@ -67,7 +67,5 @@ pip install -r requirements.txt
    python statistical_analysis.py --input data/gait_features.csv
    ```
 
-## Contributing
 
-We welcome contributions to enhance this project! Please fork the repository and create a pull request with your changes. Make sure to follow the coding guidelines and include appropriate tests.
 
